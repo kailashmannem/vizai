@@ -81,3 +81,6 @@ Feel free to:
 
 All contributions — code, design, documentation, or testing — are welcome!
 
+## Added Features:
+- You can now download the figure with AI insight as a docx file.
+
